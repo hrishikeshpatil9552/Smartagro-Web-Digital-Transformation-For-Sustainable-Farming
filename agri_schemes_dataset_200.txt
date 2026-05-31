@@ -1,0 +1,6602 @@
+[
+  {
+    "scheme_id": "SCH001",
+    "scheme_name": "Agricultural Development Scheme 1",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 1.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "44247 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/1",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH002",
+    "scheme_name": "Agricultural Development Scheme 2",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 2.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "7629 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/2",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH003",
+    "scheme_name": "Agricultural Development Scheme 3",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 3.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "32324 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/3",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH004",
+    "scheme_name": "Agricultural Development Scheme 4",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 4.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Land Records",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "15428 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/4",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH005",
+    "scheme_name": "Agricultural Development Scheme 5",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 5.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "36081 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/5",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH006",
+    "scheme_name": "Agricultural Development Scheme 6",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 6.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "41628 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/6",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH007",
+    "scheme_name": "Agricultural Development Scheme 7",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 7.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "47138 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/7",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH008",
+    "scheme_name": "Agricultural Development Scheme 8",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 8.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "43626 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/8",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH009",
+    "scheme_name": "Agricultural Development Scheme 9",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 9.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "46596 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/9",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH010",
+    "scheme_name": "Agricultural Development Scheme 10",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 10.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "4906 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/10",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH011",
+    "scheme_name": "Agricultural Development Scheme 11",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 11.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "38803 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/11",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH012",
+    "scheme_name": "Agricultural Development Scheme 12",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 12.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "3980 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/12",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH013",
+    "scheme_name": "Agricultural Development Scheme 13",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 13.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "35177 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/13",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH014",
+    "scheme_name": "Agricultural Development Scheme 14",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 14.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "45361 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/14",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH015",
+    "scheme_name": "Agricultural Development Scheme 15",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 15.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "26024 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/15",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH016",
+    "scheme_name": "Agricultural Development Scheme 16",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 16.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "11754 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/16",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH017",
+    "scheme_name": "Agricultural Development Scheme 17",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 17.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "46404 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/17",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH018",
+    "scheme_name": "Agricultural Development Scheme 18",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 18.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "10191 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/18",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH019",
+    "scheme_name": "Agricultural Development Scheme 19",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 19.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Income Certificate",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "41765 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/19",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH020",
+    "scheme_name": "Agricultural Development Scheme 20",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 20.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "24980 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/20",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH021",
+    "scheme_name": "Agricultural Development Scheme 21",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 21.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "6004 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/21",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH022",
+    "scheme_name": "Agricultural Development Scheme 22",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 22.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "10524 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/22",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH023",
+    "scheme_name": "Agricultural Development Scheme 23",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 23.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "11318 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/23",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH024",
+    "scheme_name": "Agricultural Development Scheme 24",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 24.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "25599 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/24",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH025",
+    "scheme_name": "Agricultural Development Scheme 25",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 25.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Land Records",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "21953 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/25",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH026",
+    "scheme_name": "Agricultural Development Scheme 26",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 26.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "49871 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/26",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH027",
+    "scheme_name": "Agricultural Development Scheme 27",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 27.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Land Records",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "16294 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/27",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH028",
+    "scheme_name": "Agricultural Development Scheme 28",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 28.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "12332 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/28",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH029",
+    "scheme_name": "Agricultural Development Scheme 29",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 29.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "20782 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/29",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH030",
+    "scheme_name": "Agricultural Development Scheme 30",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 30.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "37791 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/30",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH031",
+    "scheme_name": "Agricultural Development Scheme 31",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 31.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Aadhaar Card",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "6921 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/31",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH032",
+    "scheme_name": "Agricultural Development Scheme 32",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 32.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "29432 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/32",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH033",
+    "scheme_name": "Agricultural Development Scheme 33",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 33.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "24958 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/33",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH034",
+    "scheme_name": "Agricultural Development Scheme 34",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 34.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "14010 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/34",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH035",
+    "scheme_name": "Agricultural Development Scheme 35",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 35.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "24862 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/35",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH036",
+    "scheme_name": "Agricultural Development Scheme 36",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 36.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "36992 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/36",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH037",
+    "scheme_name": "Agricultural Development Scheme 37",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 37.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "27290 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/37",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH038",
+    "scheme_name": "Agricultural Development Scheme 38",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 38.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "13228 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/38",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH039",
+    "scheme_name": "Agricultural Development Scheme 39",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 39.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "32995 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/39",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH040",
+    "scheme_name": "Agricultural Development Scheme 40",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 40.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "9857 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/40",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH041",
+    "scheme_name": "Agricultural Development Scheme 41",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 41.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "32188 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/41",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH042",
+    "scheme_name": "Agricultural Development Scheme 42",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 42.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "28419 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/42",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH043",
+    "scheme_name": "Agricultural Development Scheme 43",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 43.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "29641 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/43",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH044",
+    "scheme_name": "Agricultural Development Scheme 44",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 44.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "39917 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/44",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH045",
+    "scheme_name": "Agricultural Development Scheme 45",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 45.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "18478 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/45",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH046",
+    "scheme_name": "Agricultural Development Scheme 46",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 46.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "21709 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/46",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH047",
+    "scheme_name": "Agricultural Development Scheme 47",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 47.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "44454 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/47",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH048",
+    "scheme_name": "Agricultural Development Scheme 48",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 48.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "8635 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/48",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH049",
+    "scheme_name": "Agricultural Development Scheme 49",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 49.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "28842 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/49",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH050",
+    "scheme_name": "Agricultural Development Scheme 50",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 50.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "34664 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/50",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH051",
+    "scheme_name": "Agricultural Development Scheme 51",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 51.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "49654 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/51",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH052",
+    "scheme_name": "Agricultural Development Scheme 52",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 52.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "7770 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/52",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH053",
+    "scheme_name": "Agricultural Development Scheme 53",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 53.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "29082 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/53",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH054",
+    "scheme_name": "Agricultural Development Scheme 54",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 54.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "22500 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/54",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH055",
+    "scheme_name": "Agricultural Development Scheme 55",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 55.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "38899 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/55",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH056",
+    "scheme_name": "Agricultural Development Scheme 56",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 56.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "42011 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/56",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH057",
+    "scheme_name": "Agricultural Development Scheme 57",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 57.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "16936 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/57",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH058",
+    "scheme_name": "Agricultural Development Scheme 58",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 58.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "45739 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/58",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH059",
+    "scheme_name": "Agricultural Development Scheme 59",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 59.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Passport Photo",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "24438 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/59",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH060",
+    "scheme_name": "Agricultural Development Scheme 60",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 60.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "8439 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/60",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH061",
+    "scheme_name": "Agricultural Development Scheme 61",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 61.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "9125 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/61",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH062",
+    "scheme_name": "Agricultural Development Scheme 62",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 62.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "29116 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/62",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH063",
+    "scheme_name": "Agricultural Development Scheme 63",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 63.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "13443 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/63",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH064",
+    "scheme_name": "Agricultural Development Scheme 64",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 64.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "35955 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/64",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH065",
+    "scheme_name": "Agricultural Development Scheme 65",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 65.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "18071 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/65",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH066",
+    "scheme_name": "Agricultural Development Scheme 66",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 66.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Caste Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "40710 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/66",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH067",
+    "scheme_name": "Agricultural Development Scheme 67",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 67.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "16558 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/67",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH068",
+    "scheme_name": "Agricultural Development Scheme 68",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 68.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "28490 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/68",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH069",
+    "scheme_name": "Agricultural Development Scheme 69",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 69.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "41960 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/69",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH070",
+    "scheme_name": "Agricultural Development Scheme 70",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 70.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "44532 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/70",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH071",
+    "scheme_name": "Agricultural Development Scheme 71",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 71.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "31901 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/71",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH072",
+    "scheme_name": "Agricultural Development Scheme 72",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 72.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "43746 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/72",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH073",
+    "scheme_name": "Agricultural Development Scheme 73",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 73.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "47600 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/73",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH074",
+    "scheme_name": "Agricultural Development Scheme 74",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 74.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "32524 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/74",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH075",
+    "scheme_name": "Agricultural Development Scheme 75",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 75.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "40261 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/75",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH076",
+    "scheme_name": "Agricultural Development Scheme 76",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 76.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "25887 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/76",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH077",
+    "scheme_name": "Agricultural Development Scheme 77",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 77.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "37124 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/77",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH078",
+    "scheme_name": "Agricultural Development Scheme 78",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 78.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "46166 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/78",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH079",
+    "scheme_name": "Agricultural Development Scheme 79",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 79.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "38225 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/79",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH080",
+    "scheme_name": "Agricultural Development Scheme 80",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 80.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "11544 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/80",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH081",
+    "scheme_name": "Agricultural Development Scheme 81",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 81.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "3454 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/81",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH082",
+    "scheme_name": "Agricultural Development Scheme 82",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 82.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "40177 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/82",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH083",
+    "scheme_name": "Agricultural Development Scheme 83",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 83.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "13364 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/83",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH084",
+    "scheme_name": "Agricultural Development Scheme 84",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 84.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "34879 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/84",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH085",
+    "scheme_name": "Agricultural Development Scheme 85",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 85.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "47223 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/85",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH086",
+    "scheme_name": "Agricultural Development Scheme 86",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 86.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "41128 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/86",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH087",
+    "scheme_name": "Agricultural Development Scheme 87",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 87.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Land Records",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "4997 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/87",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH088",
+    "scheme_name": "Agricultural Development Scheme 88",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 88.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "10162 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/88",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH089",
+    "scheme_name": "Agricultural Development Scheme 89",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 89.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Aadhaar Card",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "41283 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/89",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH090",
+    "scheme_name": "Agricultural Development Scheme 90",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 90.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "36684 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/90",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH091",
+    "scheme_name": "Agricultural Development Scheme 91",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 91.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "36236 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/91",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH092",
+    "scheme_name": "Agricultural Development Scheme 92",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 92.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "15648 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/92",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH093",
+    "scheme_name": "Agricultural Development Scheme 93",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 93.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "16072 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/93",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH094",
+    "scheme_name": "Agricultural Development Scheme 94",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 94.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Caste Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "18938 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/94",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH095",
+    "scheme_name": "Agricultural Development Scheme 95",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 95.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "24849 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/95",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH096",
+    "scheme_name": "Agricultural Development Scheme 96",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 96.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "6533 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/96",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH097",
+    "scheme_name": "Agricultural Development Scheme 97",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 97.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "39598 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/97",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH098",
+    "scheme_name": "Agricultural Development Scheme 98",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 98.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "32203 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/98",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH099",
+    "scheme_name": "Agricultural Development Scheme 99",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 99.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "31597 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/99",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH100",
+    "scheme_name": "Agricultural Development Scheme 100",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 100.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Caste Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "4458 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/100",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH101",
+    "scheme_name": "Agricultural Development Scheme 101",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 101.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "47975 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/101",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH102",
+    "scheme_name": "Agricultural Development Scheme 102",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 102.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "34040 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/102",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH103",
+    "scheme_name": "Agricultural Development Scheme 103",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 103.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Caste Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "22155 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/103",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH104",
+    "scheme_name": "Agricultural Development Scheme 104",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 104.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "21522 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/104",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH105",
+    "scheme_name": "Agricultural Development Scheme 105",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 105.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "14540 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/105",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH106",
+    "scheme_name": "Agricultural Development Scheme 106",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 106.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "27745 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/106",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH107",
+    "scheme_name": "Agricultural Development Scheme 107",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 107.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "23520 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/107",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH108",
+    "scheme_name": "Agricultural Development Scheme 108",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 108.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "8569 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/108",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH109",
+    "scheme_name": "Agricultural Development Scheme 109",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 109.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "30634 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/109",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH110",
+    "scheme_name": "Agricultural Development Scheme 110",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 110.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "17395 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/110",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH111",
+    "scheme_name": "Agricultural Development Scheme 111",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 111.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "11525 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/111",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH112",
+    "scheme_name": "Agricultural Development Scheme 112",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 112.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "13252 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/112",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH113",
+    "scheme_name": "Agricultural Development Scheme 113",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 113.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "7714 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/113",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH114",
+    "scheme_name": "Agricultural Development Scheme 114",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 114.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "36214 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/114",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH115",
+    "scheme_name": "Agricultural Development Scheme 115",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 115.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "16480 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/115",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH116",
+    "scheme_name": "Agricultural Development Scheme 116",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 116.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "27709 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/116",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH117",
+    "scheme_name": "Agricultural Development Scheme 117",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 117.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Land Records",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "14103 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/117",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH118",
+    "scheme_name": "Agricultural Development Scheme 118",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 118.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "38537 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/118",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH119",
+    "scheme_name": "Agricultural Development Scheme 119",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 119.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "12038 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/119",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH120",
+    "scheme_name": "Agricultural Development Scheme 120",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 120.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "12038 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/120",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH121",
+    "scheme_name": "Agricultural Development Scheme 121",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 121.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "49863 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/121",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH122",
+    "scheme_name": "Agricultural Development Scheme 122",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 122.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "28641 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/122",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH123",
+    "scheme_name": "Agricultural Development Scheme 123",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 123.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "30635 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/123",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH124",
+    "scheme_name": "Agricultural Development Scheme 124",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 124.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "47706 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/124",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH125",
+    "scheme_name": "Agricultural Development Scheme 125",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 125.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Passport Photo",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "41242 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/125",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH126",
+    "scheme_name": "Agricultural Development Scheme 126",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 126.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "33067 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/126",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH127",
+    "scheme_name": "Agricultural Development Scheme 127",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 127.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "32987 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/127",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH128",
+    "scheme_name": "Agricultural Development Scheme 128",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 128.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "31588 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/128",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH129",
+    "scheme_name": "Agricultural Development Scheme 129",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 129.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "46900 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/129",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH130",
+    "scheme_name": "Agricultural Development Scheme 130",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 130.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "35365 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/130",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH131",
+    "scheme_name": "Agricultural Development Scheme 131",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 131.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "39014 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/131",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH132",
+    "scheme_name": "Agricultural Development Scheme 132",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 132.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "14550 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/132",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH133",
+    "scheme_name": "Agricultural Development Scheme 133",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 133.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "11468 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/133",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH134",
+    "scheme_name": "Agricultural Development Scheme 134",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 134.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Caste Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "31463 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/134",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH135",
+    "scheme_name": "Agricultural Development Scheme 135",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 135.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "37518 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/135",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH136",
+    "scheme_name": "Agricultural Development Scheme 136",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 136.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "22816 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/136",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH137",
+    "scheme_name": "Agricultural Development Scheme 137",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 137.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "45866 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/137",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH138",
+    "scheme_name": "Agricultural Development Scheme 138",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 138.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "32949 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/138",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH139",
+    "scheme_name": "Agricultural Development Scheme 139",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 139.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "47622 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/139",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH140",
+    "scheme_name": "Agricultural Development Scheme 140",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 140.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "11482 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/140",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH141",
+    "scheme_name": "Agricultural Development Scheme 141",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 141.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "44724 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/141",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH142",
+    "scheme_name": "Agricultural Development Scheme 142",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 142.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "12779 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/142",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH143",
+    "scheme_name": "Agricultural Development Scheme 143",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 143.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "13853 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/143",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH144",
+    "scheme_name": "Agricultural Development Scheme 144",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 144.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "33677 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/144",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH145",
+    "scheme_name": "Agricultural Development Scheme 145",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 145.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "39114 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/145",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH146",
+    "scheme_name": "Agricultural Development Scheme 146",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 146.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "25462 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/146",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH147",
+    "scheme_name": "Agricultural Development Scheme 147",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 147.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "38996 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/147",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH148",
+    "scheme_name": "Agricultural Development Scheme 148",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 148.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Aadhaar Card",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "21435 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/148",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH149",
+    "scheme_name": "Agricultural Development Scheme 149",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 149.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "42044 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/149",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH150",
+    "scheme_name": "Agricultural Development Scheme 150",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 150.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "3057 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/150",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH151",
+    "scheme_name": "Agricultural Development Scheme 151",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 151.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "8854 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/151",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH152",
+    "scheme_name": "Agricultural Development Scheme 152",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 152.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "29921 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/152",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH153",
+    "scheme_name": "Agricultural Development Scheme 153",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 153.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "22883 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/153",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH154",
+    "scheme_name": "Agricultural Development Scheme 154",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 154.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "33648 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/154",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH155",
+    "scheme_name": "Agricultural Development Scheme 155",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 155.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "21833 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/155",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH156",
+    "scheme_name": "Agricultural Development Scheme 156",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 156.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "19738 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/156",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH157",
+    "scheme_name": "Agricultural Development Scheme 157",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 157.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "13559 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/157",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH158",
+    "scheme_name": "Agricultural Development Scheme 158",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 158.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "29874 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/158",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH159",
+    "scheme_name": "Agricultural Development Scheme 159",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 159.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "25513 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/159",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH160",
+    "scheme_name": "Agricultural Development Scheme 160",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 160.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "14494 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/160",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH161",
+    "scheme_name": "Agricultural Development Scheme 161",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 161.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "32910 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/161",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH162",
+    "scheme_name": "Agricultural Development Scheme 162",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 162.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Bank Account Details",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "44964 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/162",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH163",
+    "scheme_name": "Agricultural Development Scheme 163",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 163.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "29071 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/163",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH164",
+    "scheme_name": "Agricultural Development Scheme 164",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 164.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Income Certificate",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "40490 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/164",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH165",
+    "scheme_name": "Agricultural Development Scheme 165",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 165.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "37266 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/165",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH166",
+    "scheme_name": "Agricultural Development Scheme 166",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 166.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "28700 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/166",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH167",
+    "scheme_name": "Agricultural Development Scheme 167",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 167.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "4808 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/167",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH168",
+    "scheme_name": "Agricultural Development Scheme 168",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 168.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "30197 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/168",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH169",
+    "scheme_name": "Agricultural Development Scheme 169",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 169.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "15175 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/169",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH170",
+    "scheme_name": "Agricultural Development Scheme 170",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 170.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "48293 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/170",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH171",
+    "scheme_name": "Agricultural Development Scheme 171",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 171.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "11275 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/171",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH172",
+    "scheme_name": "Agricultural Development Scheme 172",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 172.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Aadhaar Card",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "26620 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/172",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH173",
+    "scheme_name": "Agricultural Development Scheme 173",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 173.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Land Records",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "10559 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/173",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH174",
+    "scheme_name": "Agricultural Development Scheme 174",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 174.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "39191 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/174",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH175",
+    "scheme_name": "Agricultural Development Scheme 175",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 175.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "39174 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/175",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH176",
+    "scheme_name": "Agricultural Development Scheme 176",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 176.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "7765 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/176",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH177",
+    "scheme_name": "Agricultural Development Scheme 177",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 177.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "11276 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/177",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH178",
+    "scheme_name": "Agricultural Development Scheme 178",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 178.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "47535 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/178",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH179",
+    "scheme_name": "Agricultural Development Scheme 179",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 179.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 2,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "39170 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/179",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH180",
+    "scheme_name": "Agricultural Development Scheme 180",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 180.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "7882 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/180",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH181",
+    "scheme_name": "Agricultural Development Scheme 181",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 181.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "19374 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/181",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH182",
+    "scheme_name": "Agricultural Development Scheme 182",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 182.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Passport Photo",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "36310 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/182",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH183",
+    "scheme_name": "Agricultural Development Scheme 183",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 183.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "49847 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/183",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH184",
+    "scheme_name": "Agricultural Development Scheme 184",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 184.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Caste Certificate",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "8668 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/184",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH185",
+    "scheme_name": "Agricultural Development Scheme 185",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 185.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "46119 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/185",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH186",
+    "scheme_name": "Agricultural Development Scheme 186",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 186.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "20895 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/186",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH187",
+    "scheme_name": "Agricultural Development Scheme 187",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 187.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 2,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Bank Account Details",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "27601 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/187",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH188",
+    "scheme_name": "Agricultural Development Scheme 188",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 188.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "48606 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/188",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH189",
+    "scheme_name": "Agricultural Development Scheme 189",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 189.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Records",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "46703 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/189",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH190",
+    "scheme_name": "Agricultural Development Scheme 190",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 190.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Passport Photo",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "32782 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/190",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH191",
+    "scheme_name": "Agricultural Development Scheme 191",
+    "category": "Income Support",
+    "description": "Government agricultural welfare and development scheme number 191.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 2,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Bank Account Details"
+    ],
+    "benefits": {
+      "amount": "26290 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/191",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH192",
+    "scheme_name": "Agricultural Development Scheme 192",
+    "category": "Crop Insurance",
+    "description": "Government agricultural welfare and development scheme number 192.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "39720 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/192",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH193",
+    "scheme_name": "Agricultural Development Scheme 193",
+    "category": "Irrigation",
+    "description": "Government agricultural welfare and development scheme number 193.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 1,
+      "farmer_type": "Landholding Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Land Records",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "14051 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/193",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH194",
+    "scheme_name": "Agricultural Development Scheme 194",
+    "category": "Horticulture",
+    "description": "Government agricultural welfare and development scheme number 194.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Land Records",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "11696 INR",
+      "subsidy_percentage": "25%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/194",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH195",
+    "scheme_name": "Agricultural Development Scheme 195",
+    "category": "Organic Farming",
+    "description": "Government agricultural welfare and development scheme number 195.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 800000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Caste Certificate"
+    ],
+    "benefits": {
+      "amount": "49923 INR",
+      "subsidy_percentage": "50%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/195",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH196",
+    "scheme_name": "Agricultural Development Scheme 196",
+    "category": "Livestock",
+    "description": "Government agricultural welfare and development scheme number 196.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 1,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Passport Photo",
+      "Income Certificate",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "12618 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/196",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH197",
+    "scheme_name": "Agricultural Development Scheme 197",
+    "category": "Dairy",
+    "description": "Government agricultural welfare and development scheme number 197.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Caste Certificate",
+      "Land Records",
+      "Aadhaar Card"
+    ],
+    "benefits": {
+      "amount": "18464 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/197",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH198",
+    "scheme_name": "Agricultural Development Scheme 198",
+    "category": "Agricultural Machinery",
+    "description": "Government agricultural welfare and development scheme number 198.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 200000,
+      "land_size_gt": 0,
+      "farmer_type": "Small Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Income Certificate",
+      "Aadhaar Card",
+      "Passport Photo"
+    ],
+    "benefits": {
+      "amount": "13380 INR",
+      "subsidy_percentage": "75%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online and Offline",
+    "application_link": "https://example.gov.in/scheme/198",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH199",
+    "scheme_name": "Agricultural Development Scheme 199",
+    "category": "Solar Energy",
+    "description": "Government agricultural welfare and development scheme number 199.",
+    "state": "All India",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 300000,
+      "land_size_gt": 1,
+      "farmer_type": "Marginal Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "benefits": {
+      "amount": "5910 INR",
+      "subsidy_percentage": "60%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Online",
+    "application_link": "https://example.gov.in/scheme/199",
+    "status": "Active"
+  },
+  {
+    "scheme_id": "SCH200",
+    "scheme_name": "Agricultural Development Scheme 200",
+    "category": "Women Farmers",
+    "description": "Government agricultural welfare and development scheme number 200.",
+    "state": "Maharashtra",
+    "target_beneficiaries": "Farmers",
+    "eligibility_rules": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "income_limit": 500000,
+      "land_size_gt": 0,
+      "farmer_type": "Any Farmer"
+    },
+    "exclusion_criteria": [
+      "government_employees",
+      "tax_payers"
+    ],
+    "required_documents": [
+      "Bank Account Details",
+      "Passport Photo",
+      "Land Records"
+    ],
+    "benefits": {
+      "amount": "35001 INR",
+      "subsidy_percentage": "40%",
+      "other_benefits": "Technical assistance and training"
+    },
+    "application_mode": "Offline",
+    "application_link": "https://example.gov.in/scheme/200",
+    "status": "Active"
+  }
+]
