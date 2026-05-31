@@ -204,7 +204,7 @@ export function Home({ email, onLogout, onServiceClick, onAddConsultant, onChatb
   const [passwordInput, setPasswordInput] = useState('');
   const [passwordError, setPasswordError] = useState('');
 
-  const ADD_CONSULTANT_PASSWORD = 'kshma@405';
+  const ADD_CONSULTANT_PASSWORD = "Keep Your Own Password";
 
   const handleAddConsultantClick = () => {
     const isVerified = localStorage.getItem('consultantPasswordVerified') === 'true';
